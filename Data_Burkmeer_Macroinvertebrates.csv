@@ -1,0 +1,153 @@
+ID,LocMet,Method,Location,Sample,Lat,Lon,Taxon,Phylum,Class,Order,Suborder,Family, Genus,Species, FFG,Abundance,Relative_Abundance
+ND1,NetDrained,Net,Drained,1,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,4,0.15980823
+ND1,NetDrained,Net,Drained,1,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,543,21.69396724
+ND1,NetDrained,Net,Drained,1,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,1,0.039952058
+ND1,NetDrained,Net,Drained,1,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,4,0.15980823
+ND2,NetDrained,Net,Drained,2,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,2,0.079904115
+ND3,NetDrained,Net,Drained,3,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,4,0.15980823
+ND3,NetDrained,Net,Drained,3,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,243,9.70834998
+ND4,NetDrained,Net,Drained,4,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,2,0.079904115
+ND4,NetDrained,Net,Drained,4,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,11,0.439472633
+ND4,NetDrained,Net,Drained,4,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,1686,67.359169
+ND4,NetDrained,Net,Drained,4,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,3,0.119856173
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,1,0.003254149
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Noteridae,Arthropoda,Insecta,Coleoptera,Adephaga,Noteridae,NA,NA,Pr,1,0.003254149
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,3,0.009762447
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,1,0.003254149
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,2,0.006508298
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,3,0.009762447
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,3,0.009762447
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,4104,13.35502766
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,1,0.003254149
+NP1,NetPaludiculture,Net,Paludiculture,1,0,0,Brachytron pratense larvae,Arthropoda,Insecta,Odonata,Anisoptera,Aeshnidae,Brachytron,pratense,Pr,1,0.003254149
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Notonectidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Notonectidae,NA,NA,Pr,3,0.009762447
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,16,0.052066385
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,6,0.019524894
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,2,0.006508298
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,21141,68.79596486
+NP2,NetPaludiculture,Net,Paludiculture,2,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,1,0.003254149
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Micronectidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Micronectidae,NA,NA,Pr,3,0.009762447
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Notonectidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Notonectidae,NA,NA,Pr,1,0.003254149
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,3,0.009762447
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Sphaerium,Mollusca,BiSamplervia,Sphaeriida,NA,Sphaeriidae,Sphaerium,NA,Ft,1,0.003254149
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,8,0.026033192
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,3780,12.30068337
+NP3,NetPaludiculture,Net,Paludiculture,3,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,1,0.003254149
+NP4,NetPaludiculture,Net,Paludiculture,4,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,1,0.003254149
+NP4,NetPaludiculture,Net,Paludiculture,4,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,3,0.009762447
+NP4,NetPaludiculture,Net,Paludiculture,4,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,1638,5.330296128
+NP4,NetPaludiculture,Net,Paludiculture,4,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,1,0.003254149
+NP4,NetPaludiculture,Net,Paludiculture,4,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,1,0.003254149
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,1,0.021857923
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,1,0.021857923
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,17,0.371584699
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,18,0.393442623
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Gasteropoda,Mollusca,Gasteropoda,NA,NA,NA,NA,NA,Sc,2,0.043715847
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,37,0.808743169
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,5,0.109289617
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,2,0.043715847
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Asellus aquaticus,Arthropoda,Malacostraca,Isopoda,NA,Asellidae,Asellus,aquaticus,Dt,8,0.174863388
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,1,0.021857923
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,1,0.021857923
+NI1,NetIlperveld,Net,Ilperveld,1,0,0,Argyroneta aquatica,Arthropoda,Arachnida,Araneae,Araneomorphae,Dictynidae,Argyroneta,aquatica,Pr,1,0.021857923
+NI2,NetIlperveld,Net,Ilperveld,2,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,2,0.043715847
+NI2,NetIlperveld,Net,Ilperveld,2,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,2986,65.26775956
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,81,1.770491803
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,2,0.043715847
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Sphaerium,Mollusca,BiSamplervia,Sphaeriida,NA,Sphaeriidae,Sphaerium,NA,Ft,1,0.021857923
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,1080,23.60655738
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,5,0.109289617
+NI3,NetIlperveld,Net,Ilperveld,3,0,0,Zygoptera larvae,Arthropoda,Insecta,Odonata,Zygoptera,NA,NA,NA,Pr,1,0.021857923
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Notonectidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Notonectidae,NA,NA,Pr,6,0.131147541
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,5,0.109289617
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,15,0.327868852
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,14,0.306010929
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,2,0.043715847
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Gasteropoda,Mollusca,Gasteropoda,NA,NA,NA,NA,NA,Sc,1,0.021857923
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,270,5.901639344
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,1,0.021857923
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,5,0.109289617
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Asellus aquaticus,Arthropoda,Malacostraca,Isopoda,NA,Asellidae,Asellus,aquaticus,Dt,3,0.06557377
+NI4,NetIlperveld,Net,Ilperveld,4,0,0,Apocrita,Arthropoda,Insecta,Hymenoptera,Apocrita,NA,NA,NA,Pr,1,0.021857923
+VD1,SamplerDrained,Sampler,Drained,1,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,2,5.263157895
+VD1,SamplerDrained,Sampler,Drained,1,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,2.631578947
+VD1,SamplerDrained,Sampler,Drained,1,0,0,Donacia clavipes,Arthropoda,Insecta,Coleoptera,Polyphaga,Chrysomelidae,Donacia,clavipes,Hb,2,5.263157895
+VD1,SamplerDrained,Sampler,Drained,1,0,0,Curculionidae,Arthropoda,Insecta,Coleoptera,Polyphaga,Curculionidae,NA,NA,Hb,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,4,10.52631579
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Dreissna bugensis,Mollusca,BiSamplervia,Myida,NA,Dreissenidae,Dreissena,bugensis,Ft,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Pisidium,Mollusca,BiSamplervia,Sphaeriida,NA,Sphaeriidae,Pisidium,NA,Ft,2,5.263157895
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Sessilia,Arthropoda,Thecostracea,Sessilia,NA,NA,NA,NA,Ft,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Curculionidae,Arthropoda,Insecta,Coleoptera,Polyphaga,Curculionidae,NA,NA,Hb,1,2.631578947
+VD2,SamplerDrained,Sampler,Drained,2,0,0,Brachyura,Arthropoda,Malacostraca,Decapoda,Brachyura,NA,NA,NA,Pr,1,2.631578947
+VD3,SamplerDrained,Sampler,Drained,3,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,1,2.631578947
+VD3,SamplerDrained,Sampler,Drained,3,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,2.631578947
+VD4,SamplerDrained,Sampler,Drained,4,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,12,31.57894737
+VD4,SamplerDrained,Sampler,Drained,4,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,3,7.894736842
+VD4,SamplerDrained,Sampler,Drained,4,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,2.631578947
+VD4,SamplerDrained,Sampler,Drained,4,0,0,Astacidae,Arthropoda,Malacostraca,Decapoda,Astacidea,Astacidae,NA,NA,Pr,1,2.631578947
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,108,4.034366829
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,81,3.025775121
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,54,2.017183414
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,108,4.034366829
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,85,3.175196115
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,135,5.042958536
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,0,0,Liocranidae,Arthropoda,Arachnida,Araneae,Araneomorphae,Liocranidae,NA,NA,Pr,2,0.074710497
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Gammaridae,Arthropoda,"	Malacostraca",Amphipoda,Senticaudata,Gammaridae,NA,NA,Sh,432,16.13746731
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,351,13.11169219
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Hirudinea,Annelida,Clitellata,NA,Hirudinea,NA,NA,NA,Pr,117,4.370564064
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,0,0,Sessilia,Arthropoda,Thecostracea,Sessilia,NA,NA,NA,NA,Ft,2,0.074710497
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Noteridae,Arthropoda,Insecta,Coleoptera,Adephaga,Noteridae,NA,NA,Pr,108,4.034366829
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,297,11.09450878
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Gasteropoda,Mollusca,Gasteropoda,NA,NA,NA,NA,NA,Sc,1,0.037355248
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,189,7.06014195
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,135,5.042958536
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,81,3.025775121
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Noteridae,Arthropoda,Insecta,Coleoptera,Adephaga,Noteridae,NA,NA,Pr,7,0.261486739
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,54,2.017183414
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Coleoptera larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,NA,Pr,2,0.074710497
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,81,3.025775121
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Noteridae,Arthropoda,Insecta,Coleoptera,Adephaga,Noteridae,NA,NA,Pr,3,0.270027003
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,1,0.090009001
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,5,0.450045005
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Gasteropoda,Mollusca,Gasteropoda,NA,NA,NA,NA,NA,Sc,1,0.090009001
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,12,1.080108011
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,1,0.090009001
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Asellus aquaticus,Arthropoda,Malacostraca,Isopoda,NA,Asellidae,Asellus,aquaticus,Dt,1,0.090009001
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Collembola,Arthropoda,Collembola,Entomobryomorpha,NA,NA,NA,NA,CG,2,0.180018002
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Sessilia,Arthropoda,Thecostracea,Sessilia,NA,NA,NA,NA,Ft,4,0.360036004
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Gyrinidae,Arthropoda,Insecta,Coleoptera,Adephaga,Gyrinidae,NA,NA,Pr,1,0.090009001
+VI1,SamplerIlperveld,Sampler,Ilperveld,1,0,0,Hydrometra stagnorum,Arthropoda,Insecta,Hemiptera,Heteroptera,Hydrometeridae,Hydrometra,stagnorum,Pr,1,0.090009001
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,1,0.090009001
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,54,4.860486049
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,82,7.380738074
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,135,12.15121512
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,54,4.860486049
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,1,0.090009001
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Sessilia,Arthropoda,Thecostracea,Sessilia,NA,NA,NA,NA,Ft,6,0.540054005
+VI2,SamplerIlperveld,Sampler,Ilperveld,2,0,0,Caenidae,Arthropoda,Insecta,Ephemeroptera,NA,Caenidae,NA,NA,CG,1,0.090009001
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Corixidae,Arthropoda,Insecta,Hemiptera,Heteroptera,Corixidae,NA,NA,Sc,2,0.180018002
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,7,0.630063006
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,19,1.710171017
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,162,14.58145815
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,54,4.860486049
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Hydrachnidae,Arthropoda,Arachnida,Trombidiformes,NA,Hydrachnidae,NA,NA,Pr,54,4.860486049
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Asellus aquaticus,Arthropoda,Malacostraca,Isopoda,NA,Asellidae,Asellus,aquaticus,Dt,1,0.090009001
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Sessilia,Arthropoda,Thecostracea,Sessilia,NA,NA,NA,NA,Ft,12,1.080108011
+VI3,SamplerIlperveld,Sampler,Ilperveld,3,0,0,Caenidae,Arthropoda,Insecta,Ephemeroptera,NA,Caenidae,NA,NA,CG,1,0.090009001
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Lumbriculidae,Annelida,Clitellata,Lumbriculida,NA,Lumbriculidae,NA,NA,CG,135,12.15121512
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Diptera larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,NA,Pr,54,4.860486049
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Chironomidae larvae,Arthropoda,Insecta,Diptera,NA,Chironomidae,NA,NA,CG,135,12.15121512
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Gasteropoda,Mollusca,Gasteropoda,NA,NA,NA,NA,NA,Sc,1,0.090009001
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Podocopida,Arthropoda,Ostracoda,Podocopida,NA,NA,NA,NA,Ft,27,2.430243024
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Anomopoda,Arthropoda,Branchiopoda,Anomopoda,NA,Daphniidae,Daphnia,NA,Ft,81,7.290729073
+VI4,SamplerIlperveld,Sampler,Ilperveld,4,0,0,Cyclopoida,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,NA,Pr,27,2.430243024

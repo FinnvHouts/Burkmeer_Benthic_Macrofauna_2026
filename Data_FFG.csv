@@ -1,0 +1,101 @@
+ID,LocMet,Method,Location,Sample, FFG,Abundance,Relative_Abundance
+ND1,NetDrained,Net,Drained,1,Shredder,4,0.15980823
+ND1,NetDrained,Net,Drained,1,Filter Feeder,543,21.69396724
+ND1,NetDrained,Net,Drained,1,Predator,5,0.199760288
+ND2,NetDrained,Net,Drained,2,Shredder,2,0.079904115
+ND3,NetDrained,Net,Drained,3,Scraper,4,0.15980823
+ND3,NetDrained,Net,Drained,3,Filter Feeder,243,9.70834998
+ND4,NetDrained,Net,Drained,4,Scraper,2,0.079904115
+ND4,NetDrained,Net,Drained,4,Shredder,11,0.439472633
+ND4,NetDrained,Net,Drained,4,Filter Feeder,1686,67.359169
+ND4,NetDrained,Net,Drained,4,Predator,3,0.119856173
+NP1,NetPaludiculture,Net,Paludiculture,1,Scraper,1,0.003254149
+NP1,NetPaludiculture,Net,Paludiculture,1,Predator,5,0.016270745
+NP1,NetPaludiculture,Net,Paludiculture,1,Shredder,3,0.009762447
+NP1,NetPaludiculture,Net,Paludiculture,1,Collector Gatherer,4,0.013016596
+NP1,NetPaludiculture,Net,Paludiculture,1,Filter Feeder,4107,13.36479011
+NP2,NetPaludiculture,Net,Paludiculture,2,Predator,4,0.013016596
+NP2,NetPaludiculture,Net,Paludiculture,2,Scraper,16,0.052066385
+NP2,NetPaludiculture,Net,Paludiculture,2,Shredder,6,0.019524894
+NP2,NetPaludiculture,Net,Paludiculture,2,Collector Gatherer,2,0.006508298
+NP2,NetPaludiculture,Net,Paludiculture,2,Filter Feeder,21141,68.79596486
+NP3,NetPaludiculture,Net,Paludiculture,3,Predator,5,0.016270745
+NP3,NetPaludiculture,Net,Paludiculture,3,Collector Gatherer,3,0.009762447
+NP3,NetPaludiculture,Net,Paludiculture,3,Filter Feeder,3789,12.32997071
+NP4,NetPaludiculture,Net,Paludiculture,4,Collector Gatherer,2,0.006508298
+NP4,NetPaludiculture,Net,Paludiculture,4,Filter Feeder,1641,5.340058575
+NP4,NetPaludiculture,Net,Paludiculture,4,Predator,1,0.003254149
+NI1,NetRestored,Net,Restored,1,Scraper,3,0.06557377
+NI1,NetRestored,Net,Restored,1,Collector Gatherer,20,0.43715847
+NI1,NetRestored,Net,Restored,1,Predator,26,0.568306011
+NI1,NetRestored,Net,Restored,1,Filter Feeder,37,0.808743169
+NI1,NetRestored,Net,Restored,1,Detritivore,8,0.174863388
+NI2,NetRestored,Net,Restored,2,Shredder,2,0.043715847
+NI2,NetRestored,Net,Restored,2,Filter Feeder,2986,65.26775956
+NI3,NetRestored,Net,Restored,3,Scraper,81,1.770491803
+NI3,NetRestored,Net,Restored,3,Predator,8,0.174863388
+NI3,NetRestored,Net,Restored,3,Filter Feeder,1081,23.6284153
+NI4,NetRestored,Net,Restored,4,Predator,27,0.590163934
+NI4,NetRestored,Net,Restored,4,Scraper,6,0.131147541
+NI4,NetRestored,Net,Restored,4,Collector Gatherer,17,0.371584699
+NI4,NetRestored,Net,Restored,4,Filter Feeder,270,5.901639344
+NI4,NetRestored,Net,Restored,4,Detritivore,3,0.06557377
+VD1,SamplerDrained,Sampler,Drained,1,Shredder,2,5.263157895
+VD1,SamplerDrained,Sampler,Drained,1,Predator,1,2.631578947
+VD1,SamplerDrained,Sampler,Drained,1,Herbivore,3,7.894736842
+VD2,SamplerDrained,Sampler,Drained,2,Shredder,4,10.52631579
+VD2,SamplerDrained,Sampler,Drained,2,Collector Gatherer,2,5.263157895
+VD2,SamplerDrained,Sampler,Drained,2,Predator,2,5.263157895
+VD2,SamplerDrained,Sampler,Drained,2,Filter Feeder,4,10.52631579
+VD2,SamplerDrained,Sampler,Drained,2,Herbivore,1,2.631578947
+VD3,SamplerDrained,Sampler,Drained,3,Shredder,1,2.631578947
+VD3,SamplerDrained,Sampler,Drained,3,Predator,1,2.631578947
+VD4,SamplerDrained,Sampler,Drained,4,Shredder,12,31.57894737
+VD4,SamplerDrained,Sampler,Drained,4,Collector Gatherer,3,7.894736842
+VD4,SamplerDrained,Sampler,Drained,4,Predator,2,5.263157895
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Shredder,108,4.034366829
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Collector Gatherer,81,3.025775121
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Filter Feeder,54,2.017183414
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Filter Feeder,108,4.034366829
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Predator,85,3.175196115
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Collector Gatherer,135,5.042958536
+VP1,SamplerPaludiculture,Sampler,Paludiculture,1,Predator,2,0.074710497
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Scraper,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Shredder,432,16.13746731
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Collector Gatherer,351,13.11169219
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Predator,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Filter Feeder,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Predator,117,4.370564064
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Predator,1,0.037355248
+VP2,SamplerPaludiculture,Sampler,Paludiculture,2,Filter Feeder,2,0.074710497
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Predator,108,4.034366829
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Collector Gatherer,297,11.09450878
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Scraper,1,0.037355248
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Filter Feeder,189,7.06014195
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Filter Feeder,135,5.042958536
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Predator,81,3.025775121
+VP3,SamplerPaludiculture,Sampler,Paludiculture,3,Collector Gatherer,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Predator,7,0.261486739
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Collector Gatherer,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Filter Feeder,81,3.025775121
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Predator,54,2.017183414
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Predator,2,0.074710497
+VP4,SamplerPaludiculture,Sampler,Paludiculture,4,Collector Gatherer,81,3.025775121
+VI1,SamplerRestored,Sampler,Restored,1,Predator,7,0.621118012
+VI1,SamplerRestored,Sampler,Restored,1,Collector Gatherer,7,0.621118012
+VI1,SamplerRestored,Sampler,Restored,1,Scraper,1,0.088731145
+VI1,SamplerRestored,Sampler,Restored,1,Filter Feeder,16,1.419698314
+VI1,SamplerRestored,Sampler,Restored,1,Detritivore,1,0.088731145
+VI2,SamplerRestored,Sampler,Restored,2,Scraper,1,0.088731145
+VI2,SamplerRestored,Sampler,Restored,2,Collector Gatherer,190,16.85891748
+VI2,SamplerRestored,Sampler,Restored,2,Predator,83,7.364685004
+VI2,SamplerRestored,Sampler,Restored,2,Filter Feeder,60,5.323868678
+VI3,SamplerRestored,Sampler,Restored,3,Scraper,2,0.177462289
+VI3,SamplerRestored,Sampler,Restored,3,Predator,115,10.20408163
+VI3,SamplerRestored,Sampler,Restored,3,Collector Gatherer,20,1.774622893
+VI3,SamplerRestored,Sampler,Restored,3,Filter Feeder,163,14.46317657
+VI3,SamplerRestored,Sampler,Restored,3,Detritivore,1,0.088731145
+VI4,SamplerRestored,Sampler,Restored,4,Collector Gatherer,270,23.95740905
+VI4,SamplerRestored,Sampler,Restored,4,Predator,81,7.187222715
+VI4,SamplerRestored,Sampler,Restored,4,Scraper,1,0.088731145
+VI4,SamplerRestored,Sampler,Restored,4,Filter Feeder,108,9.58296362
